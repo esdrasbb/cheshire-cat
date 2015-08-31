@@ -1,6 +1,6 @@
 # cheshire-cat
 
-FIXME
+Demo project from Living Project book
 
 ## Prerequisites
 
